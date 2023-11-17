@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Dushev</h1>
+<h1 align="center">Hi 👋, I'm passionate building the future with technology </h1>
 <h3 align="center">JavaScript Web developer with 1+ year of experience</h3>
 
 - 🔭 I’m currently working on [ReactBook](https://reactbook-app.firebaseapp.com/)
