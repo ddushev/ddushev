@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ReactBook](https://reactbook-app.firebaseapp.com/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 - 📫 How to reach me **danieldyshew@gmail.com**
 
