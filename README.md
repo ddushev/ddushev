@@ -1,5 +1,5 @@
 # 💫 About Me:
-About a year ago, I delved into programming, mastering JavaScript with TypeScript, HTML, and CSS(SCSS), and expanding into server-side development with NodeJS, Express, Handlebars, and MongoDB database. Proficient in React and Angular for front-end development, I prioritize thorough testing, version control with Git, and package management with NPM. Now, I'm eager to apply my diverse skill set to real-world challenges.
+About a year ago, I delved into programming, mastering JavaScript and TypeScript, HTML & CSS, and expanding into server-side development with NodeJS, Express, Handlebars, and MongoDB(Mongoose) as a database. Proficient in React and Angular for front-end development, I prioritize thorough testing, version control with Git, and package management with NPM. Now, I'm eager to apply my diverse skill set to real-world challenges.
 
 
 ## 🌐 Socials:
